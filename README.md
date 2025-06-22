@@ -1,2 +1,2 @@
 # New Project
-I developed this spotify-website using HTML & CSS. 
+I developed this spotify-website using HTML & CSS.
